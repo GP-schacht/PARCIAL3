@@ -1,0 +1,76 @@
+Parcial 
+¿Cómo resolverías estos problemas con una solución tecnológica? 
+una base de datos solida es el cerrazón del proyecto, poder interactuar con ella de forma dinámica y sencilla facilitaría muchísimo el trabajo de los  abogados y el personal del buffet. 
+
+las funciones principales para atacar cada problemática serian: 
+- sistema de jerarquía: una jerarqui dará acceso a ciertas funciones según se requiera.  
+
+- pantalla de casos: listado de casos, con sus filtros, cargar, borrar, modificar  y opción de ver detalle.
+
+- pantalla de clientes: listado de cientes, con sus filtros de búsqueda y opción de ver detalle 
+
+- pantalla de documentos: permite ver los documentos con sus filtros, cargar, borrar, modificar y cargar, borrar, modificar. 
+
+- pantalla de abogados: lista de los abogados y opción pare ver su detalle. 
+
+- pantalla de agenda: permitiría ver los eventos cercanos, cargar, borrar, modificar
+
+¿Qué pasos seguirías para desarrollar un sistema que permita al bufete gestionar de forma eficiente todos los aspectos de sus casos legales? 
+este es una aplicación requiere ser orientada al manejo de una base de datos, lo principal es la creación de la misma, luego implementar el CRUD y la API para para finalmente elegir una interfaz que se ajsute al sistema y los requerimientos del cliente.
+
+¿Qué estructura tendría la base de datos?  
+
+BUFFETE_DB
+
+CASOS -- tabla maestra de casos
+caso_id (PK)
+inicio_dte
+final_dte
+estatus_id(fk)
+abogado_id(fk)
+cliente_id(fk)
+
+ESTATUS_MST -- tabla maestra para guardar los estatus de todas instancias, ya da información util y dinámica a nuestra apliaccion.
+estatus_id(PK)
+estatus_tipo(caso, cliente, abogado, procesos...)
+estatus_dsc
+
+CLIENTES -- tabla maestra de los clientes de el buffete
+cliente_id (PK)
+cliente_nom
+cliente_ap
+cliente_nac
+
+ABOGADOS -- tabla maestra de los abogados de el buffete
+abogado_id(PK)
+abogado_nom
+abogado_ap
+abogado_nac
+
+DOCUMENTOS -- se gaurdan todos los Url de los documentos asi como sus descripciones, tipo, identificadores y caso adjunto. 
+doc_id(PK)
+doc_dsc
+doc_tipo
+doc_url
+caso_id(fk)
+
+
+PROCESOS - los procesos legales manejan muchas citas, reuniones, audiencias, entrevistas, a menudo dejan un registro por eso lo vinculare a documentos pero no es un campo estrictamente neesario. 
+proc_id (PK)
+proc_add_dte
+proc_desc
+prod_dte
+caso_id(fk)
+doc_id(fk)
+
+
+
+¿Por qué elegiste la estructura de base de datos que diseñaste? ¿Qué ventajas y desventajas tiene tu diseño? 
+
+Ventajas: creo que cubre las necesidades inmediatas del cliente, además  de brindar espacio para expandirse con nuevas entidades debido a que esta muy normalizada en mi opinion. nos da una solución eficiente y solida.
+
+desventajas: debido al tiempo limitado creo que se puede hacer un mejor trabajo planteado entidades y sus relaciones, considero que es un trabajo solido pero honestamente no conozco demasiado del modelo de negocio de un despacho de abogados. así que es i mejor esfuerzo.  
+
+¿Qué interfaz grafica utilizarías? 	
+
+este tipo de sistemas no brillan por su interfaz sino por su utilidad sin embargo teniendo encuenta el publico al que se dirige (personas de derecho, habituados a tablas y documentación detallada) podemos ofrecer una interfaz sobria y minimalista. HTML,CSS y JS son un clásico, si usan sistemas  windows únicamente se podría implementar una .NET WEB APP por su compatibilidad. varia dependiendo de los requerimientos del cliente 

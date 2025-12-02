@@ -1,0 +1,282 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\OneDrive - Universidad Tecnol\u00F3gica de Panam\u00E1\\II Desarrollo IV\\Repos\\PARCIAL3\\Parcial3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FF986BB8-6964-43F0-AD9C-DA214E12240E}|Parcial3.csproj|c:\\users\\pc\\onedrive - universidad tecnol\u00F3gica de panam\u00E1\\ii desarrollo iv\\repos\\parcial3\\parcial3\\clientes.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF986BB8-6964-43F0-AD9C-DA214E12240E}|Parcial3.csproj|solutionrelative:clientes.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF986BB8-6964-43F0-AD9C-DA214E12240E}|Parcial3.csproj|c:\\users\\pc\\onedrive - universidad tecnol\u00F3gica de panam\u00E1\\ii desarrollo iv\\repos\\parcial3\\parcial3\\abogados.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF986BB8-6964-43F0-AD9C-DA214E12240E}|Parcial3.csproj|solutionrelative:abogados.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF986BB8-6964-43F0-AD9C-DA214E12240E}|Parcial3.csproj|c:\\users\\pc\\onedrive - universidad tecnol\u00F3gica de panam\u00E1\\ii desarrollo iv\\repos\\parcial3\\parcial3\\agenda.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{FF986BB8-6964-43F0-AD9C-DA214E12240E}|Parcial3.csproj|solutionrelative:agenda.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF986BB8-6964-43F0-AD9C-DA214E12240E}|Parcial3.csproj|c:\\users\\pc\\onedrive - universidad tecnol\u00F3gica de panam\u00E1\\ii desarrollo iv\\repos\\parcial3\\parcial3\\abogados.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{FF986BB8-6964-43F0-AD9C-DA214E12240E}|Parcial3.csproj|solutionrelative:abogados.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF986BB8-6964-43F0-AD9C-DA214E12240E}|Parcial3.csproj|c:\\users\\pc\\onedrive - universidad tecnol\u00F3gica de panam\u00E1\\ii desarrollo iv\\repos\\parcial3\\parcial3\\clientes.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{FF986BB8-6964-43F0-AD9C-DA214E12240E}|Parcial3.csproj|solutionrelative:clientes.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF986BB8-6964-43F0-AD9C-DA214E12240E}|Parcial3.csproj|c:\\users\\pc\\onedrive - universidad tecnol\u00F3gica de panam\u00E1\\ii desarrollo iv\\repos\\parcial3\\parcial3\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{FF986BB8-6964-43F0-AD9C-DA214E12240E}|Parcial3.csproj|solutionrelative:default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF986BB8-6964-43F0-AD9C-DA214E12240E}|Parcial3.csproj|c:\\users\\pc\\onedrive - universidad tecnol\u00F3gica de panam\u00E1\\ii desarrollo iv\\repos\\parcial3\\parcial3\\casonuevo.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF986BB8-6964-43F0-AD9C-DA214E12240E}|Parcial3.csproj|solutionrelative:casonuevo.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF986BB8-6964-43F0-AD9C-DA214E12240E}|Parcial3.csproj|c:\\users\\pc\\onedrive - universidad tecnol\u00F3gica de panam\u00E1\\ii desarrollo iv\\repos\\parcial3\\parcial3\\contact.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{FF986BB8-6964-43F0-AD9C-DA214E12240E}|Parcial3.csproj|solutionrelative:contact.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF986BB8-6964-43F0-AD9C-DA214E12240E}|Parcial3.csproj|c:\\users\\pc\\onedrive - universidad tecnol\u00F3gica de panam\u00E1\\ii desarrollo iv\\repos\\parcial3\\parcial3\\about.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{FF986BB8-6964-43F0-AD9C-DA214E12240E}|Parcial3.csproj|solutionrelative:about.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF986BB8-6964-43F0-AD9C-DA214E12240E}|Parcial3.csproj|c:\\users\\pc\\onedrive - universidad tecnol\u00F3gica de panam\u00E1\\ii desarrollo iv\\repos\\parcial3\\parcial3\\casonuevo.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{FF986BB8-6964-43F0-AD9C-DA214E12240E}|Parcial3.csproj|solutionrelative:casonuevo.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF986BB8-6964-43F0-AD9C-DA214E12240E}|Parcial3.csproj|c:\\users\\pc\\onedrive - universidad tecnol\u00F3gica de panam\u00E1\\ii desarrollo iv\\repos\\parcial3\\parcial3\\casos.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{FF986BB8-6964-43F0-AD9C-DA214E12240E}|Parcial3.csproj|solutionrelative:casos.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF986BB8-6964-43F0-AD9C-DA214E12240E}|Parcial3.csproj|c:\\users\\pc\\onedrive - universidad tecnol\u00F3gica de panam\u00E1\\ii desarrollo iv\\repos\\parcial3\\parcial3\\documento.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{FF986BB8-6964-43F0-AD9C-DA214E12240E}|Parcial3.csproj|solutionrelative:documento.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF986BB8-6964-43F0-AD9C-DA214E12240E}|Parcial3.csproj|c:\\users\\pc\\onedrive - universidad tecnol\u00F3gica de panam\u00E1\\ii desarrollo iv\\repos\\parcial3\\parcial3\\bundle.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{FF986BB8-6964-43F0-AD9C-DA214E12240E}|Parcial3.csproj|solutionrelative:bundle.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF986BB8-6964-43F0-AD9C-DA214E12240E}|Parcial3.csproj|c:\\users\\pc\\onedrive - universidad tecnol\u00F3gica de panam\u00E1\\ii desarrollo iv\\repos\\parcial3\\parcial3\\casos.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF986BB8-6964-43F0-AD9C-DA214E12240E}|Parcial3.csproj|solutionrelative:casos.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Abogados.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive - Universidad Tecnol\u00F3gica de Panam\u00E1\\II Desarrollo IV\\Repos\\PARCIAL3\\Parcial3\\Abogados.aspx.cs",
+              "RelativeDocumentMoniker": "Abogados.aspx.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive - Universidad Tecnol\u00F3gica de Panam\u00E1\\II Desarrollo IV\\Repos\\PARCIAL3\\Parcial3\\Abogados.aspx.cs*",
+              "RelativeToolTip": "Abogados.aspx.cs*",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBwAAABnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T02:53:01.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Clientes.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive - Universidad Tecnol\u00F3gica de Panam\u00E1\\II Desarrollo IV\\Repos\\PARCIAL3\\Parcial3\\Clientes.aspx.cs",
+              "RelativeDocumentMoniker": "Clientes.aspx.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive - Universidad Tecnol\u00F3gica de Panam\u00E1\\II Desarrollo IV\\Repos\\PARCIAL3\\Parcial3\\Clientes.aspx.cs*",
+              "RelativeToolTip": "Clientes.aspx.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAABnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T02:52:26.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Documento.aspx",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive - Universidad Tecnol\u00F3gica de Panam\u00E1\\II Desarrollo IV\\Repos\\PARCIAL3\\Parcial3\\Documento.aspx",
+              "RelativeDocumentMoniker": "Documento.aspx",
+              "ToolTip": "C:\\Users\\PC\\OneDrive - Universidad Tecnol\u00F3gica de Panam\u00E1\\II Desarrollo IV\\Repos\\PARCIAL3\\Parcial3\\Documento.aspx",
+              "RelativeToolTip": "Documento.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-12-02T02:34:18.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Bundle.config",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive - Universidad Tecnol\u00F3gica de Panam\u00E1\\II Desarrollo IV\\Repos\\PARCIAL3\\Parcial3\\Bundle.config",
+              "RelativeDocumentMoniker": "Bundle.config",
+              "ToolTip": "C:\\Users\\PC\\OneDrive - Universidad Tecnol\u00F3gica de Panam\u00E1\\II Desarrollo IV\\Repos\\PARCIAL3\\Parcial3\\Bundle.config",
+              "RelativeToolTip": "Bundle.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-12-02T02:26:45.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "About.aspx",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive - Universidad Tecnol\u00F3gica de Panam\u00E1\\II Desarrollo IV\\Repos\\PARCIAL3\\Parcial3\\About.aspx",
+              "RelativeDocumentMoniker": "About.aspx",
+              "ToolTip": "C:\\Users\\PC\\OneDrive - Universidad Tecnol\u00F3gica de Panam\u00E1\\II Desarrollo IV\\Repos\\PARCIAL3\\Parcial3\\About.aspx",
+              "RelativeToolTip": "About.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-12-02T02:26:40.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Agenda.aspx",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive - Universidad Tecnol\u00F3gica de Panam\u00E1\\II Desarrollo IV\\Repos\\PARCIAL3\\Parcial3\\Agenda.aspx",
+              "RelativeDocumentMoniker": "Agenda.aspx",
+              "ToolTip": "C:\\Users\\PC\\OneDrive - Universidad Tecnol\u00F3gica de Panam\u00E1\\II Desarrollo IV\\Repos\\PARCIAL3\\Parcial3\\Agenda.aspx",
+              "RelativeToolTip": "Agenda.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-12-02T02:26:23.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Contact.aspx",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive - Universidad Tecnol\u00F3gica de Panam\u00E1\\II Desarrollo IV\\Repos\\PARCIAL3\\Parcial3\\Contact.aspx",
+              "RelativeDocumentMoniker": "Contact.aspx",
+              "ToolTip": "C:\\Users\\PC\\OneDrive - Universidad Tecnol\u00F3gica de Panam\u00E1\\II Desarrollo IV\\Repos\\PARCIAL3\\Parcial3\\Contact.aspx",
+              "RelativeToolTip": "Contact.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-12-02T02:25:32.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "casoNuevo.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive - Universidad Tecnol\u00F3gica de Panam\u00E1\\II Desarrollo IV\\Repos\\PARCIAL3\\Parcial3\\casoNuevo.aspx.cs",
+              "RelativeDocumentMoniker": "casoNuevo.aspx.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive - Universidad Tecnol\u00F3gica de Panam\u00E1\\II Desarrollo IV\\Repos\\PARCIAL3\\Parcial3\\casoNuevo.aspx.cs",
+              "RelativeToolTip": "casoNuevo.aspx.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAvwEkAAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T01:13:50.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "casoNuevo.aspx",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive - Universidad Tecnol\u00F3gica de Panam\u00E1\\II Desarrollo IV\\Repos\\PARCIAL3\\Parcial3\\casoNuevo.aspx",
+              "RelativeDocumentMoniker": "casoNuevo.aspx",
+              "ToolTip": "C:\\Users\\PC\\OneDrive - Universidad Tecnol\u00F3gica de Panam\u00E1\\II Desarrollo IV\\Repos\\PARCIAL3\\Parcial3\\casoNuevo.aspx",
+              "RelativeToolTip": "casoNuevo.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-12-02T01:11:56.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Casos.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive - Universidad Tecnol\u00F3gica de Panam\u00E1\\II Desarrollo IV\\Repos\\PARCIAL3\\Parcial3\\Casos.aspx.cs",
+              "RelativeDocumentMoniker": "Casos.aspx.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive - Universidad Tecnol\u00F3gica de Panam\u00E1\\II Desarrollo IV\\Repos\\PARCIAL3\\Parcial3\\Casos.aspx.cs",
+              "RelativeToolTip": "Casos.aspx.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA1wDoAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T00:51:59.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Abogados.aspx",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive - Universidad Tecnol\u00F3gica de Panam\u00E1\\II Desarrollo IV\\Repos\\PARCIAL3\\Parcial3\\Abogados.aspx",
+              "RelativeDocumentMoniker": "Abogados.aspx",
+              "ToolTip": "C:\\Users\\PC\\OneDrive - Universidad Tecnol\u00F3gica de Panam\u00E1\\II Desarrollo IV\\Repos\\PARCIAL3\\Parcial3\\Abogados.aspx",
+              "RelativeToolTip": "Abogados.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-12-02T00:48:19.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Clientes.aspx",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive - Universidad Tecnol\u00F3gica de Panam\u00E1\\II Desarrollo IV\\Repos\\PARCIAL3\\Parcial3\\Clientes.aspx",
+              "RelativeDocumentMoniker": "Clientes.aspx",
+              "ToolTip": "C:\\Users\\PC\\OneDrive - Universidad Tecnol\u00F3gica de Panam\u00E1\\II Desarrollo IV\\Repos\\PARCIAL3\\Parcial3\\Clientes.aspx",
+              "RelativeToolTip": "Clientes.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-12-02T00:47:27.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Casos.aspx",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive - Universidad Tecnol\u00F3gica de Panam\u00E1\\II Desarrollo IV\\Repos\\PARCIAL3\\Parcial3\\Casos.aspx",
+              "RelativeDocumentMoniker": "Casos.aspx",
+              "ToolTip": "C:\\Users\\PC\\OneDrive - Universidad Tecnol\u00F3gica de Panam\u00E1\\II Desarrollo IV\\Repos\\PARCIAL3\\Parcial3\\Casos.aspx",
+              "RelativeToolTip": "Casos.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-12-02T00:47:03.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive - Universidad Tecnol\u00F3gica de Panam\u00E1\\II Desarrollo IV\\Repos\\PARCIAL3\\Parcial3\\Default.aspx",
+              "RelativeDocumentMoniker": "Default.aspx",
+              "ToolTip": "C:\\Users\\PC\\OneDrive - Universidad Tecnol\u00F3gica de Panam\u00E1\\II Desarrollo IV\\Repos\\PARCIAL3\\Parcial3\\Default.aspx",
+              "RelativeToolTip": "Default.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-12-02T00:44:21.27Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
